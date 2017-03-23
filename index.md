@@ -7,7 +7,7 @@
 </ul>
 
 
-<h1 id="works">個人プロダクト</h2>
+<h1 id="works">個人プロダクト</h1>
 
 ## iOSアプリ
 - [Here I am](https://itunes.apple.com/jp/app/here-i-am/id1143913696?mt=8)
@@ -16,7 +16,7 @@
     - 学生向け時間割管理アプリ
 
 
-<h1 id="writing">執筆</h2>
+<h1 id="writing">執筆</h1>
 
 ## ブログ
 - [平屋真吾 - Developers.IO](http://dev.classmethod.jp/author/hiraya-shingo/)
@@ -33,14 +33,14 @@
 - [iOSアプリエンジニア養成読本［クリエイティブな開発のための技術力／デザイン力／マインドを養う！］ - 技術評論社](http://gihyo.jp/book/2014/978-4-7741-6385-7)
 
 
-<h1 id="presentation">プレゼンテーション</h2>
+<h1 id="presentation">プレゼンテーション</h1>
 
 - [iOS 10 Notifications // Speaker Deck](https://speakerdeck.com/hirayacm/ios-10-notifications)
 - [iOS 9 Bootcamp #6 UIKit](https://www.slideshare.net/ShingoHiraya/ios-9-bootcamp-6-uikit)
 - [\[iOS 8\] iOS8勉強会 PhotoKit](https://www.slideshare.net/ShingoHiraya/20140918-i-os8photokit)
 
 
-<h1 id="contact">連絡先</h2>
+<h1 id="contact">連絡先</h1>
 
 - [Twitter](https://twitter.com/shingohry)
 - [GitHub](https://github.com/hirayaCM)
