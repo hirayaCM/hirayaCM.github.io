@@ -10,6 +10,8 @@
 <h1 id="works">個人プロダクト</h1>
 
 ## iOSアプリ
+- [Tables - 授業管理アプリ](https://itunes.apple.com/jp/app/tables-%E6%8E%88%E6%A5%AD%E7%AE%A1%E7%90%86%E3%82%A2%E3%83%97%E3%83%AA/id1286724907?mt=8)
+    - 学生向け時間割管理アプリ
 - [Here I am](https://itunes.apple.com/jp/app/here-i-am/id1143913696?mt=8)
     - 「現在地」や「方角」を共有するためのiMessageアプリ
 - ~~授業管理＋~~ (配信停止中)
